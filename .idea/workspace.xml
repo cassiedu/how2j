@@ -2,119 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5837e861-a6f2-46c9-8840-733be5fd9947" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/HutuMainFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/dao/CategoryDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/dao/ConfigDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/dao/RecordDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/entity/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/entity/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/entity/Record.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/frame/MainFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/BackupListener$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/BackupListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/CategoryListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/ConfigListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/RecordListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/RecoverListener$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/RecoverListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/listener/ToolBarListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/model/CategoryComboBoxModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/model/CategoryTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/page/SpendPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/BackupPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/CategoryPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/ConfigPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/MainPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/RecordPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/RecoverPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/ReportPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/SpendPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gui/panel/WorkingPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/service/CategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/service/ConfigService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/service/RecordService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/service/ReportService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/service/SpendService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/startup/Bootstrap$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/startup/Bootstrap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/Test$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/CenterPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/ChartUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/CircleProgressBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/ColorUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/DBUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/DateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/GUIUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/util/MysqlUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hutubill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/backup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/category2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/config.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/record.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/report.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/restore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/chart.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/liquidlnf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.0.8-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/swingx-core-1.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/hutubill.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HutuMainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/CategoryDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/ConfigDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/RecordDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Record.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/frame/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/BackupListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/CategoryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/ConfigListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/RecordListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/RecoverListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/listener/ToolBarListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/model/CategoryComboBoxModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/model/CategoryTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/page/SpendPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/BackupPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/CategoryPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/ConfigPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/MainPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/RecordPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/RecoverPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/ReportPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/SpendPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/panel/WorkingPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ConfigService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/RecordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ReportService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/SpendService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/startup/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/CenterPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ChartUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/CircleProgressBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ColorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/GUIUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/MysqlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\project\hutubill\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1VI47qkeCgDy0YbtKAC23WiHEow" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -133,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -159,9 +56,25 @@
       <option name="presentableId" value="Default" />
       <updated>1576927110398</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1576979901231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576979901231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1369" y="352" key="CommitChangelistDialog2" timestamp="1576979898747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1369" y="352" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1576979898747" />
     <state x="1447" y="365" key="FileChooserDialogImpl" timestamp="1576979632151">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -170,10 +83,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1550" y="648" width="269" height="218" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576978693013" />
+    <state x="1474" y="451" key="NewModule_or_Project.wizard" timestamp="1576981780075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1474" y="451" key="NewModule_or_Project.wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1576981780075" />
     <state x="1137" y="243" key="SettingsEditor" timestamp="1576978366762">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1137" y="243" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1576978366762" />
+    <state x="1420" y="475" key="Vcs.Push.Dialog.v2" timestamp="1576980052057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1420" y="475" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1576980052057" />
     <state x="1389" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1576978143289">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
